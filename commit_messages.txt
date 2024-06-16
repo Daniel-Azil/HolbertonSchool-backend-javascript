@@ -1,0 +1,55 @@
+README.md|Add project-level README with overview and documentation for backend JavaScript tasks.
+0x00-ES6_basic/0-constants.js|Add example demonstrating use of constants in JavaScript (ES6).
+0x00-ES6_basic/1-block-scoped.js|Add example showing block-scoped variable declarations with `let` and `const`.
+0x00-ES6_basic/2-arrow.js|Add example illustrating usage of arrow functions in ES6.
+0x00-ES6_basic/3-default-parameter.js|Add example on using default function parameters in ES6.
+0x00-ES6_basic/4-rest-parameter.js|Add example demonstrating rest parameter syntax for variable arguments.
+0x00-ES6_basic/5-spread-operator.js|Add example of the spread operator for array and object literals.
+0x00-ES6_basic/6-string-interpolation.js|Add example of template literals for string interpolation.
+0x00-ES6_basic/7-getBudgetObject.js|Add example function returning a budget object.
+0x00-ES6_basic/8-getBudgetCurrentYear.js|Add function to dynamically set current year in budget object.
+0x00-ES6_basic/9-getFullBudget.js|Add function to combine budgets into a full budget report.
+0x00-ES6_basic/10-loops.js|Add example of using loops in JavaScript.
+0x00-ES6_basic/11-createEmployeesObject.js|Add function to create employee objects with department details.
+0x00-ES6_basic/12-createReportObject.js|Add function to create a report object from multiple employee objects.
+0x00-ES6_basic/README.md|Add README for ES6 Basics covering module objectives and file descriptions.
+0x00-ES6_basic/babel.config.js|Add Babel configuration file for ES6 transpiling support.
+0x00-ES6_basic/package.json|Add dependencies and scripts for ES6 Basic tasks.
+0x00-ES6_basic/package-lock.json|Add dependencies and scripts for ES6 Basic tasks.
+0x01-ES6_promise/0-promise.js|Add example demonstrating Promise concepts in JavaScript.
+0x01-ES6_promise/README.md|Add README for ES6 Promises covering asynchronous task objectives and file descriptions.
+0x01-ES6_promise/babel.config.js|Add Babel configuration for Promise examples.
+0x01-ES6_promise/package.json|Add dependencies and scripts for ES6 Promise tasks.
+0x01-ES6_promise/utils.js|Add utility functions for Promise examples.
+0x01-ES6_promise/testfolder/test.js|Add test file for Promise example to validate functionality.
+0x02-ES6_classes/0-classroom.js|Add example demonstrating ES6 classes and inheritance.
+0x02-ES6_classes/README.md|Add README for ES6 Classes covering object-oriented principles and file descriptions.
+0x02-ES6_classes/test/test.js|Add test file for ES6 class examples.
+0x03-ES6_data_manipulation/0-get_list_students.js|Add example demonstrating ES6 data manipulation techniques.
+0x03-ES6_data_manipulation/README.md|Add README for ES6 Data Manipulation covering objectives and file descriptions.
+0x03-ES6_data_manipulation/Tests/test.js|Add test file for data manipulation example.
+0x04-TypeScript/README.md|Add README for TypeScript tasks, including compilation and usage instructions.
+0x04-TypeScript/task_0.js|Add TypeScript task example with code and output demonstration.
+0x04-TypeScript/task_1.js|Add TypeScript task example with code and output demonstration.
+0x04-TypeScript/task_2.js|Add TypeScript task example with code and output demonstration.
+0x04-TypeScript/task_3.js|Add TypeScript task example with code and output demonstration.
+0x04-TypeScript/task_4.js|Add TypeScript task example with code and output demonstration.
+0x04-TypeScript/task_5.js|Add TypeScript task example with code and output demonstration.
+0x05-Node_JS_basic/0-console.js|Add Node.js basic example demonstrating console input/output.
+0x05-Node_JS_basic/1-http_server.js|Add Node.js basic example demonstrating HTTP server.
+0x05-Node_JS_basic/2-file_handling.js|Add Node.js basic example demonstrating file handling.
+0x05-Node_JS_basic/3-file_system.js|Add Node.js basic example demonstrating file system operations.
+0x05-Node_JS_basic/4-routing.js|Add Node.js basic example demonstrating routing in HTTP server.
+0x05-Node_JS_basic/5-http_client.js|Add Node.js basic example demonstrating HTTP client.
+0x05-Node_JS_basic/6-server_with_db.js|Add Node.js basic example with server connecting to database.
+0x05-Node_JS_basic/7-http_express.js|Add Node.js basic example with HTTP server using Express.js.
+0x05-Node_JS_basic/README.md|Add README for Node.js basics covering tasks and file descriptions.
+0x05-Node_JS_basic/babel.config.js|Add Babel configuration for Node.js tasks.
+0x05-Node_JS_basic/database.csv|Add sample data for Node.js file-handling tasks.
+0x05-Node_JS_basic/package.json|Add dependencies and scripts for Node.js basic tasks.
+0x05-Node_JS_basic/full_server/server.js|Add example of a full HTTP server implementation in Node.js.
+0x06-unittests_in_js/0-calcul.js|Add unit test for JavaScript function calculations using Mocha.
+0x06-unittests_in_js/1-api.js|Add unit test for API responses using Mocha.
+0x06-unittests_in_js/README.md|Add README for JavaScript unittests covering tasks and file descriptions.
+0x06-unittests_in_js/package.json|Add dependencies and test scripts for unit testing with Mocha.
+0x06-unittests_in_js/utils.js|Add utility functions for JavaScript unittests.
